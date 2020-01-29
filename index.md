@@ -43,6 +43,16 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings.
 
 ```
+
+OWASP China-Mainland
+-------------
+Welcome to the China-Mainland chapter homepage. The chapter board is <a href="mailto:rip@owasp.org">Rip</a>, <a href="mailto:wangj@owasp.org.cn">Dr. Jie Wang</a> and Bao Yuezhong. 
+
+Chapter Sponsors
+----------------
+The following are the list of OWASP China-Mainland Corporate Members who have generously aligned themselves with the China-Mainland chapter, therefore contributing funds to our chapter:
+
+
 {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
