@@ -52,3 +52,11 @@ This separate file is where you should place links to your Google Group and Meet
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
 -->
+
+OWASP China-Mainland
+-------------
+Welcome to the China-Mainland chapter homepage. The chapter board is <a href="mailto:rip@owasp.org">Rip</a>, <a href="mailto:wangj@owasp.org.cn">Dr. Jie Wang</a> and <a href="mailto:andra.lezza@owasp.org">Yuezhong Bao</a>.
+
+Chapter Sponsors
+----------------
+The following are the list of OWASP China-Mainland's Corporate Members who have generously aligned themselves with the China-Mainland chapter, therefore contributing funds to our chapter:
