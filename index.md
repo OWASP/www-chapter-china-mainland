@@ -82,22 +82,40 @@ The following are the list of Security Media who have generously aligned themsel
 OWASP China-Mainland Leaders
 ----------------
 Chair: <a href="mailto:rip@owasp.org">Rip Torn</a> 
-Vice Chair: <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Yuezhong Bao 包悦忠, 
+
+Vice Chair: <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Yuezhong Bao 包悦忠
+
 Community Manager: <a href="miya@owasp.org.cn"> Ms. Xu Fei 许飞女士</a>
 
+
 Branch Leaders:
+
 Anhui: Xia Tianze 夏天泽
+
 Beijing:  Chen Xinlong 陈新龙，Zhang Kun 张坤
+
 Guangdong: Xiao Wendi 肖文棣
+
 Guangxi: Wang Houkui 王厚奎
+
 Hainan: Wang Qiang 王强
+
 Heilongjiang: Huang Junqiang 黄俊强
+
 Hubei: Zhang Yan 张龑
+
 Jiangsu: Song Chao 宋超
+
 Liaoning: Ms. Wu Nan 吴楠女士
+
 Shaanxi: Ren Bolun 任博伦
+
 Shanxi: Cao Xiaojun 曹晓俊
+
 Shandong: McFord 张剑钟，Wang Qinglong 王青龙
+
 Sichuan: Dr. Wang Jie 王颉
+
 Shanghai: <a href="mailto:shanda.wang@owasp.org.cn"> Wang Wenjun 王文君, Song Guohui 宋国徽
+  
 Zhejiang: Yuan Mingkun 袁明坤
