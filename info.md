@@ -9,4 +9,4 @@
 ### Social Links
 WeChat Public Account
 
-<img src="assets/images/mainway.jpg" alt=""/>
+<img src="assets/images/owaspchina.jpg" alt=""/>
