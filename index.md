@@ -82,44 +82,44 @@ The following are the list of Security Media who have generously aligned themsel
 OWASP China-Mainland Leaders
 ----------------
 #### Chapter Board
-Chair: <a href="mailto:rip@owasp.org">Rip Torn</a> 
+**Chair:** <a href="mailto:rip@owasp.org">Rip Torn</a> 
 
-Vice Chair: <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Bao Yuezhong 包悦忠
+**Vice Chair:** <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Bao Yuezhong 包悦忠
 
-Community Manager: <a href="miya@owasp.org.cn"> Ms. Xu Fei 许飞女士</a>
+**Community Manager:** <a href="miya@owasp.org.cn"> Ms. Xu Fei 许飞女士</a>
 
 
 #### Area Leaders:
 
-Anhui: Xia Tianze 夏天泽
+**Anhui:** Xia Tianze 夏天泽
 
-Beijing:  Chen Xinlong 陈新龙，Zhang Kun 张坤
+**Beijing:**  Chen Xinlong 陈新龙，Zhang Kun 张坤
 
-Guangdong: Xiao Wendi 肖文棣
+**Guangdong:** Xiao Wendi 肖文棣
 
-Guangxi: Wang Houkui 王厚奎
+**Guangxi:** Wang Houkui 王厚奎
 
-Hainan: Wang Qiang 王强
+**Hainan:** Wang Qiang 王强
 
-Heilongjiang: Huang Junqiang 黄俊强
+**Heilongjiang:** Huang Junqiang 黄俊强
 
-Hubei: Zhang Yan 张龑
+**Hubei:** Zhang Yan 张龑
 
-Jiangsu: Song Chao 宋超
+**Jiangsu:** Song Chao 宋超
 
-Liaoning: Ms. Wu Nan 吴楠女士
+**Liaoning:** Ms. Wu Nan 吴楠女士
 
-Shaanxi: Ren Bolun 任博伦
+**Shaanxi:** Ren Bolun 任博伦
 
-Shanxi: Cao Xiaojun 曹晓俊
+**Shanxi:** Cao Xiaojun 曹晓俊
 
-Shandong: McFord 张剑钟，Wang Qinglong 王青龙
+**Shandong:** McFord 张剑钟，Wang Qinglong 王青龙
 
-Sichuan: Dr. Wang Jie 王颉
+**Sichuan:** Dr. Wang Jie 王颉
 
-Shanghai: <a href="mailto:shanda.wang@owasp.org.cn"> Wang Wenjun 王文君</a>, Song Guohui 宋国徽
+**Shanghai:** <a href="mailto:shanda.wang@owasp.org.cn"> Wang Wenjun 王文君</a>, Song Guohui 宋国徽
   
-Zhejiang: Yuan Mingkun 袁明坤
+**Zhejiang:** Yuan Mingkun 袁明坤
 
 Speaking at OWASP China-Mainland Chapter Events
 ---------------------------------------
