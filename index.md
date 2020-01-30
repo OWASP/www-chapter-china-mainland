@@ -14,9 +14,9 @@ Welcome to the China-Mainland chapter homepage. The chapter board is <a href="ma
 
 Chapter Supporters
 ----------------
-### Chapter Sponsors
+### Corporate Supporters
 
-The following are the list of members who have generously aligned themselves with the OWASP China-Mainland chapter, therefore contributing funds to our chapter:
+The following are the list of corporates who have generously aligned themselves with the OWASP China-Mainland chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
@@ -52,7 +52,7 @@ The following are the list of universities who have generously aligned themselve
   
 ### Media Supporters
 
-The following are the list of Security Media who have generously aligned themselves with the OWASP China-Mainland chapter, therefore supporting our chapter:
+The following are the list of media who have generously aligned themselves with the OWASP China-Mainland chapter, therefore supporting our chapter:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
