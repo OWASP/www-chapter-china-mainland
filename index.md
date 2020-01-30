@@ -59,7 +59,7 @@ Welcome to the China-Mainland chapter homepage. The chapter board is <a href="ma
 
 Chapter Sponsors
 ----------------
-The following are the list of OWASP China-Mainland's Corporate Members who have generously aligned themselves with the China-Mainland chapter, therefore contributing funds to our chapter:
+The following are the list of members who have generously aligned themselves with the OWASP China-Mainland chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
@@ -71,5 +71,49 @@ The following are the list of OWASP China-Mainland's Corporate Members who have 
 </td>
 <td>
 <img src="assets/images/mainway.png" alt=""/>
+</td>
+</tr>
+
+Academic Supporters
+----------------
+The following are the list of universities who have generously aligned themselves with the OWASP China-Mainland chapter, therefore supporting our chapter:
+
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+<img src="assets/images/uni_nanning.png" alt=""/>
+</td>
+<td>
+<img src="assets/images/uni_zhongbei.png" alt=""/>
+</td>
+<td>
+<img src="assets/images/uni_changzhou.jpg" alt=""/>
+</td>
+</tr>
+  
+Media Supporters
+----------------
+The following are the list of Security Media who have generously aligned themselves with the OWASP China-Mainland chapter, therefore supporting our chapter:
+
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+<img src="assets/images/med_anquanjia.jpg" alt=""/>
+</td>
+<td>
+<img src="assets/images/med_anquanke.png" alt=""/>
+</td>
+<td>
+<img src="assets/images/med_bugbank.jpg" alt=""/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/med_eanzaixian.png" alt=""/>
+</td>
+<td>
+<img src="assets/images/med_FreeBuf.png" alt=""/>
+</td>
+<td>
 </td>
 </tr>
