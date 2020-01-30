@@ -28,7 +28,7 @@ The following are the list of members who have generously aligned themselves wit
 <img src="assets/images/seczone.png" alt=""/>
 </td>
 <td>
-<img src="assets/images/mainway.png" alt=""/>
+<img src="assets/images/mainway.jpg" alt=""/>
 </td>
 </tr>
 </table>
@@ -43,10 +43,10 @@ The following are the list of universities who have generously aligned themselve
 <img src="assets/images/uni_nanning.png" alt=""/>
 </td>
 <td>
-<img src="assets/images/uni_zhongbei.png" alt=""/>
+<img src="assets/images/uni_zhongbei.jpg" alt=""/>
 </td>
 <td>
-<img src="assets/images/uni_changzhou.jpg" alt=""/>
+<img src="assets/images/uni_changzhou.png" alt=""/>
 </td>
 </tr>
 </table>
@@ -126,7 +126,7 @@ Speaking at OWASP China-Mainland Chapter Events
 
 #### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP China-Mainland Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP China-Mainland Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Community Manager via e-mail:
 
 `conf(at)owasp.org.cn`
 
