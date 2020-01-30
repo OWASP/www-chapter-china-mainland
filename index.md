@@ -60,3 +60,18 @@ Welcome to the China-Mainland chapter homepage. The chapter board is <a href="ma
 Chapter Sponsors
 ----------------
 The following are the list of OWASP China-Mainland's Corporate Members who have generously aligned themselves with the China-Mainland chapter, therefore contributing funds to our chapter:
+
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+
+<img src="assets/images/pingan.jpg" alt=""/>
+
+</td>
+<td>
+
+<img src="assets/images/seczone.png" alt=""/>
+
+</td>
+<td>
+<img src="assets/images/mainway.png" alt=""/>
