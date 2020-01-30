@@ -2,12 +2,11 @@
 
 layout: col-sidebar
 title: OWASP China-Mainland
-tags: example-tag
+tags: pastevents-tag
 level: 0
-
 region: Asia/Pacific
 
-auto-migrated: 1
+<!--auto-migrated: --1>
 
 ---
 
