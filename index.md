@@ -6,9 +6,9 @@ tags: pastevents-tag
 level: 0
 region: Asia/Pacific
 
-<!--auto-migrated: --1>
-
 ---
+
+<!-- auto-migrated: --1>
 
 OWASP China-Mainland
 -------------
