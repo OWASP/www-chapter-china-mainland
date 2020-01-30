@@ -81,6 +81,7 @@ The following are the list of Security Media who have generously aligned themsel
 
 OWASP China-Mainland Leaders
 ----------------
+#### Chapter Board
 Chair: <a href="mailto:rip@owasp.org">Rip Torn</a> 
 
 Vice Chair: <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Yuezhong Bao 包悦忠
@@ -88,7 +89,7 @@ Vice Chair: <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Yuezhon
 Community Manager: <a href="miya@owasp.org.cn"> Ms. Xu Fei 许飞女士</a>
 
 
-Branch Leaders:
+#### Area Leaders:
 
 Anhui: Xia Tianze 夏天泽
 
@@ -116,6 +117,16 @@ Shandong: McFord 张剑钟，Wang Qinglong 王青龙
 
 Sichuan: Dr. Wang Jie 王颉
 
-Shanghai: <a href="mailto:shanda.wang@owasp.org.cn"> Wang Wenjun 王文君, Song Guohui 宋国徽
+Shanghai: <a href="mailto:shanda.wang@owasp.org.cn"> Wang Wenjun 王文君</a>, Song Guohui 宋国徽
   
 Zhejiang: Yuan Mingkun 袁明坤
+
+Speaking at OWASP China-Mainland Chapter Events
+---------------------------------------
+
+#### Call For Speakers
+
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP China-Mainland Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+
+`conf(at)owasp.org.cn`
+
