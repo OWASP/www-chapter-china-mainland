@@ -13,7 +13,7 @@ auto-migrated: 1
 
 OWASP China-Mainland
 -------------
-Welcome to the China-Mainland chapter homepage. The chapter board is <a href="mailto:rip@owasp.org">Rip</a>, <a href="mailto:wangj@owasp.org.cn">Dr. Jie Wang</a> and Yuezhong Bao.
+Welcome to the China-Mainland chapter homepage. The chapter board is <a href="mailto:rip@owasp.org">Rip</a>, <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie</a> and Bao Yuezhong.
 
 Chapter Sponsors
 ----------------
@@ -84,7 +84,7 @@ OWASP China-Mainland Leaders
 #### Chapter Board
 Chair: <a href="mailto:rip@owasp.org">Rip Torn</a> 
 
-Vice Chair: <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Yuezhong Bao 包悦忠
+Vice Chair: <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Bao Yuezhong 包悦忠
 
 Community Manager: <a href="miya@owasp.org.cn"> Ms. Xu Fei 许飞女士</a>
 
@@ -130,3 +130,6 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 `conf(at)owasp.org.cn`
 
+OWASP China-Mainland Chinese Website
+----------------
+For more information about OWASP China-Mainland Chapter, please visit OWASP China website: http://www.owasp.org.cn/
