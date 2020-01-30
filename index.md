@@ -73,6 +73,7 @@ The following are the list of members who have generously aligned themselves wit
 <img src="assets/images/mainway.png" alt=""/>
 </td>
 </tr>
+</table>
 
 Academic Supporters
 ----------------
@@ -90,6 +91,7 @@ The following are the list of universities who have generously aligned themselve
 <img src="assets/images/uni_changzhou.jpg" alt=""/>
 </td>
 </tr>
+</table>
   
 Media Supporters
 ----------------
@@ -117,3 +119,4 @@ The following are the list of Security Media who have generously aligned themsel
 <td>
 </td>
 </tr>
+</table>
