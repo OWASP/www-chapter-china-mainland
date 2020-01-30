@@ -8,9 +8,7 @@ region: Asia/Pacific
 
 ---
 
-OWASP China-Mainland
--------------
-Welcome to the China-Mainland chapter homepage. The chapter board is <a href="mailto:rip@owasp.org">Rip</a>, <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie</a> and Bao Yuezhong.
+Welcome to the China-Mainland chapter homepage. The chapter board is <a href="mailto:rip@owasp.org">Rip</a>, <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie</a> and Bao Yuezhong. Follow chapter news on WeChat Public Account by scanning QRCode with WeChat.
 
 Chapter Supporters
 ----------------
