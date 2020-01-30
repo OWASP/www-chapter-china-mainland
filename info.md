@@ -7,5 +7,6 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
-* [WeChat Public Account]
-* []<img src="assets/images/mainway.jpg" alt=""/>
+WeChat Public Account
+
+<img src="assets/images/mainway.jpg" alt=""/>
