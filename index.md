@@ -12,8 +12,10 @@ OWASP China-Mainland
 -------------
 Welcome to the China-Mainland chapter homepage. The chapter board is <a href="mailto:rip@owasp.org">Rip</a>, <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie</a> and Bao Yuezhong.
 
-Chapter Sponsors
+Chapter Supporters
 ----------------
+### Chapter Sponsors
+
 The following are the list of members who have generously aligned themselves with the OWASP China-Mainland chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
@@ -30,8 +32,8 @@ The following are the list of members who have generously aligned themselves wit
 </tr>
 </table>
 
-Academic Supporters
-----------------
+### Academic Supporters
+
 The following are the list of universities who have generously aligned themselves with the OWASP China-Mainland chapter, therefore supporting our chapter:
 
 <table cellpadding="15" cellspacing="0">
@@ -48,8 +50,8 @@ The following are the list of universities who have generously aligned themselve
 </tr>
 </table>
   
-Media Supporters
-----------------
+### Media Supporters
+
 The following are the list of Security Media who have generously aligned themselves with the OWASP China-Mainland chapter, therefore supporting our chapter:
 
 <table cellpadding="15" cellspacing="0">
@@ -125,7 +127,7 @@ For more information about OWASP China-Mainland Chapter, please visit OWASP Chin
 Speaking at OWASP China-Mainland Chapter Events
 ---------------------------------------
 
-#### Call For Speakers
+### Call For Speakers
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP China-Mainland Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Community Manager via e-mail:
 
