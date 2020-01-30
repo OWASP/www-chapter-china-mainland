@@ -64,14 +64,12 @@ The following are the list of OWASP China-Mainland's Corporate Members who have 
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-
 <img src="assets/images/pingan.jpg" alt=""/>
-
 </td>
 <td>
-
 <img src="assets/images/seczone.png" alt=""/>
-
 </td>
 <td>
 <img src="assets/images/mainway.png" alt=""/>
+</td>
+</tr>
