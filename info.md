@@ -1,5 +1,5 @@
 
-### Chanpter Information
+### Chapter Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
 * [Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook)
