@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP China-Mainland
 tags: China-Mainland
 level: 0
-region: Asia/Pacific
+region: Asia
 
 ---
 
