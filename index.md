@@ -81,7 +81,7 @@ The following are the list of media who have generously aligned themselves with 
 OWASP China-Mainland Leaders
 ----------------
 ### Chapter Board
-**Chair:** <a href="mailto:rip@owasp.org">Rip Torn</a> 
+**Chair:** <a href="mailto:rip@owasp.org">RIP 万振华</a> 
 
 **Vice Chair:** <a href="mailto:wangj@owasp.org.cn">Dr. Wang Jie 王颉</a>, Bao Yuezhong 包悦忠
 
