@@ -7,6 +7,9 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
+
+[Meetup](https://www.meetup.com/beijing-owasp-meetup-group/)
+
 WeChat Public Account
 
 <img src="assets/images/owaspchina.jpg" alt=""/>
