@@ -1,3 +1,3 @@
 ### Leaders
 
-* [RIP （万振华）](mailto:rip@owasp.org)
+* [RIP](mailto:rip@owasp.org)
