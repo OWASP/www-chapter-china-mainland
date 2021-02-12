@@ -11,6 +11,24 @@ tags: China-Mainland
 
 ## Past Events
 
+#### S-SDLC & DevSecOps, Shenzhen, Guangdong, Thursday, 2020/12/26
+
+Event Agenda:
+
+13:30 Introduction, Jie Wang
+
+13:40 Talk 1 : "S-SDLC & DevSecOps, from the view of IT industry" - Kevin Gu
+
+14:20 Talk 2 : "S-SDLC & DevSecOps, from the view of Financial industry" - Yixiang Liu
+
+15:00 Tea Break
+
+15:10 Talk 3 : "S-SDLC & DevSecOps, from the view of Software Engineering" - Jinghan SOng
+
+15:50 Talk 4 : "OWASP SAMM 2.0" - Jie Wang
+
+16:30 Roundtable Discussion : "S-SDLC or DevSecOps, which one should be chosen?"
+
 #### **OWASP China-Mainland, Henan Area, Zhengzhou, 2020/01/04**
 
 #### **OWASP China-Mainland, Beijing Area, Beijing, 2019/12/06**
