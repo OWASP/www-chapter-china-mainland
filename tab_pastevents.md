@@ -23,11 +23,13 @@ Event Agenda:
 
 15:00 Tea Break
 
-15:10 Talk 3 : "S-SDLC & DevSecOps, from the view of Software Engineering" - Jinghan SOng
+15:10 Talk 3 : "S-SDLC & DevSecOps, from the view of Software Engineering" - Jinghan Song
 
 15:50 Talk 4 : "OWASP SAMM 2.0" - Jie Wang
 
 16:30 Roundtable Discussion : "S-SDLC or DevSecOps, which one should be chosen?"
+
+#### **OWASP China-Mainland, Shanxi Area, Taiyuan, 2020/12/26**
 
 #### **OWASP China-Mainland, Henan Area, Zhengzhou, 2020/01/04**
 
