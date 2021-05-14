@@ -5,6 +5,7 @@ title: OWASP China-Mainland
 tags: China-Mainland
 level: 0
 region: Asia
+meetup-group:OWASP-China-Mainland-Meetup
 
 ---
 
