@@ -1,5 +1,4 @@
 ---
----
 
 layout: col-sidebar
 title: OWASP China-Mainland
@@ -7,7 +6,8 @@ site_side: true
 tags: China-Mainland
 level: 0
 region: Asia
-altfooter: truemeetup-group:OWASP-China-Mainland-Meetup
+altfooter: true
+meetup-group:OWASP-China-Mainland-Meetup
 
 ---
 
