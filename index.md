@@ -127,6 +127,10 @@ OWASP China-Mainland Chinese Website
 ----------------
 For more information about OWASP China-Mainland Chapter, please visit OWASP China website: http://www.owasp.org.cn/
 
+## Upcoming Events:
+
+{% include chapter_events.html group=page.meetup-group %}
+ 
 Speaking at OWASP China-Mainland Chapter Events
 ---------------------------------------
 
