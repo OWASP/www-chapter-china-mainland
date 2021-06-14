@@ -8,6 +8,7 @@ level: 3
 region: Asia
 altfooter: true
 meetup-group: OWASP-China-Mainland-Meetup
+meeting-platform: unknown
 
 ---
 
