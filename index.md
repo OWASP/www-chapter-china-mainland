@@ -20,10 +20,6 @@ Celebrating OWASP’s 20th Anniversary
 ----------------
 <img src="assets/images/OWASP 20th Anniversary.jpeg" alt=""/>
 
-OWASP Project Chinese Translation 
-----------------
-OWASP Top 10 2017 
-
 Chapter Supporters
 ----------------
 ### Corporate Supporters
