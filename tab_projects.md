@@ -13,8 +13,9 @@ tags: China-Mainland
 
 #### **OWASP Top 10 Project**
 ###### **[OWASP Top 10 2017](https://github.com/OWASP/www-chapter-china-mainland/blob/master/OWASP%20Top%2010%202017%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)**
+###### **[OWASP Top 10 2013](https://github.com/OWASP/www-chapter-china-mainland/blob/master/OWASP%20Top%2010%202013%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)**
 
-#### **OWASP SAMM Project**
+#### **[OWASP SAMM Project](https://github.com/OWASP/www-chapter-china-mainland/blob/master/OWASP%20SAMM%202.0%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)**
 
 #### **[OWASP ProActive Controls Project](https://github.com/OWASP/www-project-proactive-controls/blob/master/v3/OWASP_Top_10_Proactive_Controls_V3_Chinese.pdf)**
 
