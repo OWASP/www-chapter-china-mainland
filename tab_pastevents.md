@@ -10,6 +10,79 @@ tags: China-Mainland
 ---
 
 ## Past Events
+#### OWASP China Hohhot Day Event, Hohhot, 2021/07/24
+
+Event Agenda:
+
+14:30-14:45 Opening Speech
+
+14:45-15:00 About OWASP
+
+15:00-15:30 Network Security Talent Training
+
+15:30-16:00 Network Security Response Practices
+
+16:00-16:30 Blackbox Pentesting Tricks
+
+16:30-17:00 Research of AI-based IoT Forensics
+
+17:00-17:30 From Anti-Virus to Threat Intelligence
+
+#### OWASP China Guilin Day Event, Guilin, 2021/07/14
+
+Event Agenda:
+
+14:30-14:40 Opening Speech
+
+14:40-15:10 Systematic Fusion for Secure and Efficiency of Software Development
+
+15:10-15:40 Crptography based Data & Privacy Protection Method
+
+15:40-15:50 Tea Break
+
+15:50-16:20 Thinking in Enterprise Data Security Protection
+
+16:20-16:50 QR Code Security Weaknesses and Countermeasures
+
+16:50-17:20 Enterprise's Strategies under Strong Supervision of Software Supply Chain Security
+
+#### OWASP China Chongqing Day Event, Chongqing, 2021/06/23
+
+Event Agenda:
+
+14:00-14:20 Opening Speech
+
+14:20-14:30 Introduction of OWASP
+
+14:30-15:00 Software Code Secure Review
+
+15:00-15:30 BSN Assists InforSec & DataSec
+
+15:30-15:50 Tea Break
+
+15:50-16:20 From the View of Software Testing to InfoSec
+
+16:20-16:50 Software Supply Chain
+
+16:50-17:20 Reverse Analysis of Dailylife App's Common Functions
+
+#### OWASP China Chengdu Day Event, Chengdu, 2021/07/24
+
+Event Agenda:
+
+13:30-13:40 Opening Speech
+
+13:40-14:20 OWASP Dependency Track
+
+14:20-15:00 How to make security no longer a stumbling block for DevOps?
+
+15:00-15:15 Tea Break
+
+15:15-15:55 Open source software governance
+
+15:55-16:35 Best practices of security state aware
+
+16:35-17:00 Round-table discussion
 
 #### S-SDLC & DevSecOps, Shenzhen, Guangdong, Thursday, 2020/12/26
 
