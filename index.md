@@ -18,6 +18,7 @@ Welcome to the China-Mainland chapter homepage. The chapter board is <a href="ma
 
 Celebrating OWASP’s 20th Anniversary
 ----------------
+<img src="assets/images/OWASP 20th Anniversary.jpeg" alt=""/>
 
 Chapter Supporters
 ----------------
