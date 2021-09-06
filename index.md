@@ -102,7 +102,7 @@ OWASP China-Mainland Leaders
 
 **Beijing:**  Chen Xinlong 陈新龙，Zhang Kun 张坤
 
-**Guangdong:** Xiao Wendi 肖文棣
+**Guangdong:** Xiao Wendi 肖文棣，Liu Zhicheng 刘志诚
 
 **Guangxi:** Wang Houkui 王厚奎
 
