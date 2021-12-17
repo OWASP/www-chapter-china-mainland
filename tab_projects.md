@@ -12,7 +12,7 @@ tags: China-Mainland
 ## Translation Projects
 
 #### **OWASP Top 10 Project**
-#### **[* OWASP Top 10 2021](https://github.com/OWASP/www-chapter-china-mainland/blob/master/OWASP%20TOP%2010%202021%20%E4%B8%AD%E6%96%87%E7%89%88V1.0.pdf)**
+#### **[* OWASP Top 10 2021](https://github.com/OWASP/www-chapter-china-mainland/blob/master/OWASP%20TOP%2010%202021%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)**
 
 #### **[* OWASP Top 10 2017](https://github.com/OWASP/www-chapter-china-mainland/blob/master/OWASP%20Top%2010%202017%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)**
 
