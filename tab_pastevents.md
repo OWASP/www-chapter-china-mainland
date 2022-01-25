@@ -10,6 +10,66 @@ tags: China-Mainland
 ---
 
 ## Past Events
+#### OWASP China Shenzhen Day Event, Sofware Development and Supply Chain Security, Shenzhen, 2021/09/25
+
+Agenda:
+
+13:30-13:40 Opening Speech
+
+13:40-13:50 Release of OWASP Top 10 2021 Chinese Version
+
+13:50-14:00 Release of OWASP Go Secure Coding Practices Guide Chinese Version
+
+14:00-14:30 Software Supply Chain Security and Toolchain
+
+14:30-15:00 Software Supply Chain based Security Practices
+
+15:00-15:30 Open Source Software Management
+
+15:30-15:50 Tea Break
+
+15:50-16:20 Tencent Cloud Security and DevSecOps
+
+16:20-16:50 Construction of DevSecOps Delivery System
+
+16:50-17:10 System Engineering of Software Supply Chain
+
+17:10-17:40 Round Table Discussion: From the view of OWASP Top 2021 to Software Supply Chain
+
+#### OWASP China Hefei Day Event, Digital Compliance, Hefei, 2021/12/04
+
+Agenda
+
+OWASP DevSecOps Maturity Model
+
+Open Source Component Risk Governace
+
+DevSecOps-Based Mobile APP Compliance
+
+Capability Build for Financial Security Person
+
+Vulnerability Attack & Defend Practices of Next-Gen Security Technique
+
+Talk about Forensics
+
+#### OWASP China Shenzhen Day Event, Shenzhen, 2021/09/25
+
+Celebration of OWASP 20 Years Anniversary!
+
+Close-door event for OWASP China selected members only.
+
+Open discussion for Data Security, no particular talks set!
+
+Agenda:
+
+14:00-14:30 OWASP 20 Years Anniversary
+
+14:30-14:35 Opening Speech
+
+14:35-14:55 Raise the question
+
+15:00-17:00 Open Discussion
+
 #### OWASP China Hohhot Day Event, Hohhot, 2021/07/24
 
 Event Agenda:
