@@ -52,7 +52,7 @@ Vulnerability Attack & Defend Practices of Next-Gen Security Technique
 
 Talk about Forensics
 
-#### OWASP China Shenzhen Day Event, Shenzhen, 2021/09/25
+#### OWASP China Shenzhen Day Event, Data Security and Best Practices, Shenzhen, 2021/09/25
 
 Celebration of OWASP 20 Years Anniversary!
 
