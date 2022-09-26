@@ -7,7 +7,7 @@ tags: China-Mainland
 level: 3
 region: Asia
 altfooter: true
-meetup-group: OWASP-China-Mainland-Meetup
+meetup-group: beijing-owasp-meetup-group
 meeting-platform: unknown
 
 ---
