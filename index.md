@@ -6,6 +6,7 @@ site_side: true
 tags: China-Mainland
 level: 3
 region: Asia
+country: China
 altfooter: true
 meetup-group: beijing-owasp-meetup-group
 meeting-platform: unknown
