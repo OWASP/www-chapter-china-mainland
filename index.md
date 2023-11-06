@@ -98,24 +98,25 @@ OWASP China-Mainland Leaders
 
 
 ### Area Leaders
-
-**Anhui:** Xia Tianze 夏天泽
+**Anhui:** Qian Junsheng 钱君生
 
 **Beijing:**  Chen Xinlong 陈新龙，Zhang Kun 张坤
 
 **Guangdong:** Xiao Wendi 肖文棣，Liu Zhicheng 刘志诚
 
-**Guangxi:** Wang Houkui 王厚奎
+**Guangxi:** Cheng Yuanchong 程远冲，Guo Peigang 郭佩刚
 
 **Hainan:** Wang Qiang 王强
 
 **Heilongjiang:** Huang Junqiang 黄俊强
 
-**Hubei:** Zhang Yan 张龑
+**Jiling:** Guo Zhenxin 郭振新
 
-**Jiangsu:** Song Chao 宋超
+**Jiangsu:** Huang Shengchao 黄圣超
 
 **Liaoning:** Ms. Wu Nan 吴楠女士
+
+**Neimenggu:** Hu He 呼和，Liu Guoqiang 刘国强   
 
 **Shaanxi:** Ren Bolun 任博伦
 
@@ -123,7 +124,7 @@ OWASP China-Mainland Leaders
 
 **Shandong:** McFord 张剑钟，Wang Qinglong 王青龙
 
-**Sichuan:** Dr. Wang Jie 王颉
+**Sichuan:** Ma Wei 马伟
 
 **Shanghai:** <a href="mailto:shanda.wang@owasp.org.cn"> Wang Wenjun 王文君</a>, Song Guohui 宋国徽
   
