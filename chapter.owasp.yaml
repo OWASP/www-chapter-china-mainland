@@ -1,0 +1,23 @@
+leaders:
+  - name: Jie Wang
+    email: wangj@owasp.org.cn
+    github: wangjie8578
+  - name: Rip Torn
+    email: rip@owasp.org.cn
+location:
+  country: China
+  country_code: CN
+  region: Asia
+  latitude: 32.6921772
+  longitude: 109.0239688
+meetup_group: beijing-owasp-meetup-group
+name: OWASP China-Mainland
+repositories:
+  - name: www-chapter-china-mainland
+    url: https://github.com/OWASP/www-chapter-china-mainland
+    description: OWASP Foundation Web Repository
+tags:
+  - China-Mainland
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-china-mainland
